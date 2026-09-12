@@ -7,7 +7,7 @@ Skills install as namespaced slash commands: `/mattpocock-skills:<name>`.
 ## Install
 
 ```bash
-devin plugins install <owner>/mattpocock-skills-devin
+devin plugins install Fatih0234/mattpocock-skills-devin
 
 # or from a local checkout (linked — edits apply next session)
 devin plugins install --local ./mattpocock-skills-devin
